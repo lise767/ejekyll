@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Semester 1: Week 1 Reading Blog Post: Digital Technology is not Neutral"
+title:  "Semester 1: Week 2 Reading Blog Post: What is digital humanities? What is data in the humanities?"
 date:   2021-09-23 17:34:14 -0400
 categories: Reading
 ---
