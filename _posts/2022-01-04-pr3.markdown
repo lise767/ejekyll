@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Visualizing Caribbean Literary Encounters: Progress Report 3"
+date:   2022-01-04 17:34:14 -0400
+categories: Reading
+---
