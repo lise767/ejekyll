@@ -23,7 +23,7 @@ email: eliseannaielvalerie@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Élise Valerie's Create Caribbean Intern Jekyll Website
 baseurl: "/ejekyll/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lise767.github.io/ejekyll/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  liseValerie2
 github_username: lise767
 
