@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Annotated Bibliography
+title: Project Proposal
 ---
 
 When I was first told about the creation of an individual project and not only the major project that we at Create Caribbean are working on, I was rather nervous and apprehensive as to what I would compose my project about. After weeks of classes and working on both finding and cleaning data for the main project, inspiration struck me. This occurred when I was editing a column in the google sheet that required the language in which the novel was published in. This was when I came across the book titled, “Everything Everything” by Mrs Nicola Yoon. I have been absolutely obsessed with the movie inspired by the book of the same name. I was rather ecstatic to find out that Mrs. Yoon grew up in both Jamaica and Brooklyn. I promptly dove into  researching her work and quickly found out that she was the first black woman to hit #1 on the New York Times Young Adult bestseller list. This was the final little push that I needed to fully consider making my individual project about her like, work and achievements.
