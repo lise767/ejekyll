@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Semester 2: Week 4 Reading Blog Post: Telling Stories in Space and Place"
+date:   2022-02-01 17:34:14 -0400
+categories: Reading
+---
+
+Through this week's teachings, I was introduced to a new concept called the Spatial Turn. Before we can understand what a spatial turn is, we must first understand what a turn represents. A turn refers to looking back at previous events that occurred. This usually comes after a change occurs. It is in a sense looking back at how far a person, organization, population or study has come. 
+The Spatial Turn refers to looking back on the reasoning for different people who travelled to different places did so, as well as how they affected the development of the places they settled into. This includes the ideologies created and spread over that physical area as well as the different time periods. 
+“The spatial turn represents the impulse to position these new tools against old questions.”, Jo Guldi. Today we can look back on the ideologies of the past and question their logic. This was made easier with the creation of GIS in the 1960s. The new tools (GIS) allowed people to retrace the steps taken by those before them and examine them with a better sense of precision. This means that the questions that were previously unable to be answered can be answered now. Also, the answers previously decided upon can be inspected again to come to a new or same conclusion, simply with the presence of having more facts to back up the claim. Furthermore, the use of new tools can help in the understanding of why certain questions were even asked, this can be uncovered with the use of previous data and the new understanding of concepts available due to the creation of tools.
+
+The migration of people influenced the way in which literature was used and written. Due to the scenery and culture of the areas being changed, it was only fit for the description and literary devices being used to describe these places and people changing too. The manner in which the neighbourhoods were kept, the architecture of the buildings,  interactions between people including the flow of the hierarchy at the time and how the different levels interacted and viewed each other, colours, as well as their fashion sense and their societal, political and infrastructural changes, were described. All these changes were a result of the migration that had occurred. The writings of the time categorized the inhabitants of the areas not only by their motherlands but also by appearances and observed mannerisms. 
+
+The observed characteristics of the people and physical environment are still being used in this day and age when writers refer to that specific time period. This is said due to different words, phrases, colours, fashion trends and mannerisms which are associated with the time period being added to the literature to establish the “feel” of the piece. These are used to translate the image of that specific place to the readers. Although we were not alive and or present we have very clear ideas as to what the area would have looked, sounded and even smelt like at that time. This is due to the earlier documentation of the culture and environs. 
+
+Jo Guldi, What is the Spatial Turn?
+https://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/
+
+Jo Guldi, The Spatial Turn in Literature
+https://spatial.scholarslab.org/spatial-turn/the-spatial-turn-in-literature/index.html 
+

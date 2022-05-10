@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Semester 2: Week 2 Reading Blog Post: Library as Text, Place and Tool & Archives in Context and as Context"
+date:   2022-01-17 17:34:14 -0400
+categories: Reading
+---
+
+“Approaching the field of digital humanities as an outsider is an interesting experience. It is best compared, I think, to being a tourist in a foreign country for which there are no reliable guidebooks. It is a country in which the language is almost the same as the one you speak, and yet words are used to mean somewhat different things. It is also a relatively young country, still trying to define its national identity.” - Kate Theimer
+
+The aforementioned quote does an amazing job at explaining exactly what learning about the digital humanities field feels like at first to students. It can be confusing and intimidating. This is due to once entering the field one has no prior knowledge of the area of study and must learn everything from scratch. This includes new definitions and tools that they are expected to use. This forces the student to essentially freefall with the hopes of grasping the information that they are being taught along the journey as well as trusting that their tutors are leading them down the correct path. 
+
+Throughout the learning process, the student will encounter terminology that they have either never encountered before or somewhat familiar terms that carry slightly different meanings in the field. The lack of knowledge of the terms used in the fields causes a serious problem in communication with the people who are already established in the field. One must not only learn the term but also understand the importance it serves in the field
+
+The ease of understanding the knowledge shared with students in the digital humanities field is hindered not only by the confusion associated with the terminology used but also by the ease of access to relevant data. In Dominica, access to knowledge is limited due to the lack of proper circulation of text. There are very few libraries on the island which means that access to the information is difficult. Furthermore, Hurricane Maria severely damaged the Public Library which lead to the loss of parts of the collection housed there. Also, the library was temporarily relocated, sadly, it is not common knowledge as to where this is.
+Due to the lack of proper documentation, the stores of heavily sought out information are very careful as to who has access to original documents. This makes it even more difficult for students to gather information especially if they have little to no connections. Thus, it is preferred to have ownership of texts, though expensive as the availability and willingness of the books being shared in the library are limited and not very reliable. This is due to several people having to use the same text. It is also difficult to find information about the heritage of the country online. This is again due to a lack of proper circulation of knowledge. When it comes to finding viable and free data about the country online there are a handful of sites that actually cater to one's needs. This makes it very frustrating to collect data for projects as well as for personal use.
+
+Schuyler Esprit, Library as Text, Place and Tool 
+http://schuyleresprit.com/esprit/portfolio/topography-topology-typography-the-library-as-place-text-and-tool-in-caribbean-digital-research-classrooms/
+
+Kate Theimer, Archives in Context and as Contexthttp://journalofdigitalhumanities.org/1-2/archives-in-context-and-as-context-by-kate-theimer/ 

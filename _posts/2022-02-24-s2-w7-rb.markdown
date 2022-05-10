@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Semester 2: Week 7 Reading Blog Post: Ethical Concerns in DH and data visualization"
+date:   2022-02-24 17:34:14 -0400
+categories: Reading
+---
+
+“Although the phrase “history is written by the victors” is cliché, at its core it reveals a deep truth about those in power: they shape what becomes public memory through both the development of both mainstream media and cultural memory.” - Christina Boyles 
+
+The aforementioned quote is one that is full of truth, throughout the history of the world and mankind the stories that are heavily publicized come from the person who had the upper hand and not from the person who lost. Due to this, a lot of history based around the losing party (which in most cases was the marginalized communities at the time including the less fortunate) was erased. In its place, stories that flatter the victor was published. This problem is still ongoing however it is easier to seek out misinformation due to data being more accessible. Also, the presence of social media allows the members of marginalized communities to have platforms where they can share their experiences and clear up the confusion and falsities present in the circulating news. 
+The silencing of the voices of the people who are members of the marginalized community also occurs in archival work. This is done when the struggles of the people are written up to be seen as trivial matters. Also, when credit for work done by people in marginalized groups is not documented, this only adds salt to the wound. Furthermore, the manner in which the practices of the groups are described impacts the way these people will be viewed by the public. The words selected when writing the piece set the tone. This being said, if the writer chooses to have a negative stance against the topic, and their words reflect that then the readers of this data are most likely to follow along with this belief.
+In order to prevent ourselves as a people from falling into old patterns, we must look at the ideologies that we follow and question exactly how they came into existence and who they have directly as well as indirectly harmed. We must also hold ourselves accountable for problematic ideologies that we previously supported. Not only that but educating ourselves on the struggles of people in both the past and the present. Furthermore, we must break the cycle by moving away from dangerous beliefs.
+
+We as students must also recognize that the information that we learnt in school can be extremely biased. We should not rely solely on our history books to educate us about problems in the past (and present) but we should take it upon ourselves to do our own research. When doing said research, we must take the opportunity to hear the story from the other person’s point of view before fully committing to an opinion on the situation.
+
+Christina Boyles, Making and Breaking: Teaching Information Ethics through Curatorial Practice
+http://www.digitalhumanities.org/dhq/vol/12/4/000404/000404.html 
